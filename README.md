@@ -1,1 +1,1 @@
-fruit hunter game on fpga
+fruit hunter game on FPGA
